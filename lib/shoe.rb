@@ -16,3 +16,4 @@ class Shoe
     @size = size
     BRANDS << size
 end
+end
